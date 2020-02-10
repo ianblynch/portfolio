@@ -1,0 +1,45 @@
+{
+  "name": "casc",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@aws-amplify/auth": "^1.2.18",
+    "@aws-amplify/pubsub": "^1.0.24",
+    "aws-amplify": "^1.1.22",
+    "aws-amplify-react": "^2.3.2",
+    "aws-sdk": "^2.427.0",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "formik": "^1.5.1",
+    "jquery": "^3.3.1",
+    "node-sass": "^4.11.0",
+    "normalize.css": "^8.0.1",
+    "open-iconic": "^1.1.1",
+    "popper.js": "^1.14.7",
+    "react": "^16.8.4",
+    "react-dom": "^16.8.4",
+    "react-markdown": "^4.0.6",
+    "react-recaptcha": "^2.3.10",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.5",
+    "react-uid": "^2.2.0",
+    "yup": "^0.27.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "homepage": "http://cincinnatiadaptedsports.org",
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

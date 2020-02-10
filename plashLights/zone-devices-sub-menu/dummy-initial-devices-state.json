@@ -1,0 +1,79 @@
+{
+    "0": {
+        "name": "Under Cabinet Lights",
+        "model": "PlashLights_F3EA",
+        "type": "RGB(W) Controller",
+        "version": "2.0",
+        "zone": "Living Room"
+    },
+    "1": {
+        "name": "Under Cabinet Lights",
+        "model": "PlashLights_F3EA",
+        "type": "RGB(W) Controller",
+        "version": "2.0",
+        "zone": "Living Room"
+    },
+    "2": {
+        "name": "Under Cabinet Lights",
+        "model": "PlashLights_F3EA",
+        "type": "RGB(W) Controller",
+        "version": "2.0",
+        "zone": "Living Room"
+    },
+    "3": {
+        "name": "Under Cabinet Lights",
+        "model": "PlashLights_F3EA",
+        "type": "RGB(W) Controller",
+        "version": "2.0",
+        "zone": "Unassigned"
+    },
+    "4": {
+        "name": "Under Cabinet Lights",
+        "model": "PlashLights_F3EA",
+        "type": "RGB(W) Controller",
+        "version": "2.0",
+        "zone": "Unassigned"
+    },
+    "5": {
+        "name": "Under Cabinet Lights",
+        "model": "PlashLights_F3EA",
+        "type": "RGB(W) Controller",
+        "version": "2.0",
+        "zone": "Unassigned"
+    },
+    "6": {
+        "name": "Under Cabinet Lights",
+        "model": "PlashLights_F3EA",
+        "type": "RGB(W) Controller",
+        "version": "2.0",
+        "zone": "Unassigned"
+    },
+    "7": {
+        "name": "Under Cabinet Lights",
+        "model": "PlashLights_F3EA",
+        "type": "RGB(W) Controller",
+        "version": "2.0",
+        "zone": "Unassigned"
+    },
+    "8": {
+        "name": "Under Cabinet Lights",
+        "model": "PlashLights_F3EA",
+        "type": "RGB(W) Controller",
+        "version": "2.0",
+        "zone": "Unassigned"
+    },
+    "9": {
+        "name": "Under Cabinet Lights",
+        "model": "PlashLights_F3EA",
+        "type": "RGB(W) Controller",
+        "version": "2.0",
+        "zone": "Unassigned"
+    },
+    "10": {
+        "name": "Under Cabinet Lights",
+        "model": "PlashLights_F3EA",
+        "type": "RGB(W) Controller",
+        "version": "2.0",
+        "zone": "Unassigned"
+    }
+}
